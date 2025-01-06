@@ -2,7 +2,9 @@
 
 ## Project Background
 This project focuses on **customer churn analysis** for a telecom firm. Churn analysis helps identify customers likely to leave the service, enabling businesses to take preventive actions. The project uses machine learning techniques to predict churn and visualize critical patterns using **Power BI**. Although tailored for the telecom industry, these techniques can be applied to other domains, such as retail, finance, and healthcare, to enhance customer retention strategies.
-[dashboard](images/1.png)
+
+![Dashboard](images/1.png)
+
 ## Insights and Recommendations
 Insights and recommendations are provided across the following key areas:
 
@@ -19,14 +21,13 @@ The main database consists of four tables, loaded and processed via an ETL pipel
 - **Service Details**: Internet type, phone services, and additional services.
 - **Churn Indicators**: Customer status, churn category, and churn reason.
 
-
 ## Executive Summary
 This project identified key factors influencing churn, including:
 - Customers with **month-to-month contracts** had the highest churn rate compared to those with annual contracts.
 - Older customers aged **50+** were more likely to churn than younger age groups.
 - Customers in regions like **Jammu & Kashmir** and **Assam** showed significantly higher churn rates.
 
-These findings empower marketing teams to design targeted retention campaigns.  
+These findings empower marketing teams to design targeted retention campaigns.
 
 ## Insights Deep Dive
 
@@ -84,7 +85,7 @@ The following key metrics were calculated:
 - Visualize customer churn trends by demographic, geographic, and account details.
 - Create a **Predicted Churners** dashboard to identify at-risk customers.
 
-![dashboard](images/1.png)(images/2.png)
+![Churner Profile Dashboard](images/2.png)
 
 ## Tools & Technologies
 - **SQL Server**: For data storage and ETL pipeline.
