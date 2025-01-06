@@ -85,7 +85,7 @@ The following key metrics were calculated:
 - Visualize customer churn trends by demographic, geographic, and account details.
 - Create a **Predicted Churners** dashboard to identify at-risk customers.
 
-![Churner Profile Dashboard](images/2.png)
+![Churner Profile Dashboard](Images/2.png)
 
 ## Tools & Technologies
 - **SQL Server**: For data storage and ETL pipeline.
