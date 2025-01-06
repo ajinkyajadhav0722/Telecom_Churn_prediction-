@@ -3,7 +3,7 @@
 ## Project Background
 This project focuses on **customer churn analysis** for a telecom firm. Churn analysis helps identify customers likely to leave the service, enabling businesses to take preventive actions. The project uses machine learning techniques to predict churn and visualize critical patterns using **Power BI**. Although tailored for the telecom industry, these techniques can be applied to other domains, such as retail, finance, and healthcare, to enhance customer retention strategies.
 
-![Dashboard](images/1.png)
+![Dashboard](Images/1.png)
 
 ## Insights and Recommendations
 Insights and recommendations are provided across the following key areas:
